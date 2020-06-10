@@ -14,13 +14,13 @@ class ATM {
 /* Se crea un arreglo de cuentas, este se recorre con el "for" que genera nuevas cuentas en el arreglo, 
  * posteriormente se asignan Ids y balaces mediante el "while. */
     Cuenta[] account;
-    account = new Cuenta[9];
-    for (int i=0;i<9;i++){
+    account = new Cuenta[10];
+    for (int i=0;i<10;i++){
       account[i]= new Cuenta();
     }
     
     int i = 0;
-    while(i < 9){
+    while(i < 10){
       account[i].setId(i);
       account[i].setBalance(100000);
       i++;
