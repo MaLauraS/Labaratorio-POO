@@ -10,7 +10,7 @@ class Sistema {
     this.capacity = capacity;
   }
 
-  public void EntraralSistema(String cedula, String password){
+  public void EntrarAlSistema(String cedula, String password){
     if(getCuenta(cedula).GetContrasenna() == password){
       System.out.println("Ingreso Exitoso");
       System.out.println("");

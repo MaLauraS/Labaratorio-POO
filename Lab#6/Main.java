@@ -16,10 +16,10 @@ class Main {
     sist.AgregarCuenta(cuenta3);
     sist.AgregarCuenta(cuenta4);
 
-    sist.EntraralSistema("118320993", "MeGustanLosGatos");
-    sist.EntraralSistema("118140893", "LosCarrosSonCool");
-    sist.EntraralSistema("1020150922", "Perrito02");
-    sist.EntraralSistema("4280167421", "Carmesi19");
+    sist.EntrarAlSistema("118320993", "MeGustanLosGatos");
+    sist.EntrarAlSistema("118140893", "LosCarrosSonCool");
+    sist.EntrarAlSistema("1020150922", "Perrito02");
+    sist.EntrarAlSistema("4280167421", "Carmesi19");
 
 
     System.out.println("---------------------------------------------");
