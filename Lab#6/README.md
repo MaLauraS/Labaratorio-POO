@@ -1,5 +1,5 @@
-María Laura Sánchez 
-Rohi Prendas 
+María Laura Sánchez.
+Rohi Prendas. 
 
 Especificación.
 -
