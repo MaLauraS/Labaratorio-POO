@@ -1,5 +1,6 @@
 
-# Especificación.
+Especificación.
+-
 
 El Organismo de Investigación Judicial (OIJ) requiere desarrollar un sistema que les permita almacenar la información referente a las denuncias de mejor manera.
 
